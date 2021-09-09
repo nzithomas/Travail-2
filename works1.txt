@@ -1,1 +1,2 @@
 Je revise les commandes de Git
+J'insere une autre ligne dans ce fichier
